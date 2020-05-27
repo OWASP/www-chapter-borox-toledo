@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Antonio Claret Rodriguez Blanco](mailto:antonio.rodriguez-blanc@owasp.org)
+* [Milagros del Valle Martín Duran](mailto:milagros.delvallemartinduran@owasp.org)
