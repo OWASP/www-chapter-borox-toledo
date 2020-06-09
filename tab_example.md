@@ -6,6 +6,6 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Próximos Eventos
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Estamos trabajando para un proximo evento con el objetivo  de concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas.
