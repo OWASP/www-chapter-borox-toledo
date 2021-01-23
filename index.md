@@ -13,7 +13,7 @@ postal-code: 45222
 ## Bienvenidos
 Bienvenidos al capítulo de OWASP BOROX, un espacio donde profesionales apasionados por la ciberseguridad podemos intercambiar conocimientos y experiencias. 
 
-## Participa en nuestros eventos
+## Comparte tus conocimientos
 Si quieres compartir alguna charla en nuestros eventos, ponte en contacto con nosotros y te informaremos nuestra planificación.
 
 ## Participación
