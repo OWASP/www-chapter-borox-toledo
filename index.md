@@ -2,8 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Borox Toledo
-tags: example-tag
+tags: Main
+level: 2
 region: Europe
+meetup-group: owasp-borox-toledo-meetup-group
+postal-code: 45222
 
 ---
 
