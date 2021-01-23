@@ -11,9 +11,10 @@ postal-code: 45222
 ---
 
 ## Bienvenidos
-Bienvenidos al capítulo de OWASP BOROX nos entusiasma tener un grupo de profesionales apasionados por la ciberseguridad. Orientado al intercambio de conocimiento, aprendizaje práctico y el networking. Si eres apasionado por la ciberseguridad y estas interesado en compartir tus conocimientos, escribemos y colabora con nosotros.
+Bienvenidos al capítulo de OWASP BOROX, un espacio donde profesionales apasionados por la ciberseguridad podemos intercambiar conocimientos y experiencias. 
 
-Estamos trabajando en preparar un evento que llevaremos a cabo de forma Online, próximamente estaremos ofreciendo más detalle.
+## Participa en nuestros eventos
+Si quieres compartir alguna charla en nuestros eventos, ponte en contacto con nosotros y te informaremos nuestra planificación.
 
 ## Participación
 El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos a cualquier persona interesada en mejorar la seguridad de las aplicaciones.
