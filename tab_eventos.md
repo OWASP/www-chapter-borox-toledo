@@ -4,7 +4,7 @@ displaytext: Eventos
 layout:  null
 tab: true
 order: 2
-tags: tab_example.md
+tags: example-tag
 ---
 
 ## Próximos Eventos
