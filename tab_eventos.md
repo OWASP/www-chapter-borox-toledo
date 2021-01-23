@@ -1,9 +1,10 @@
 ---
 title: Eventos
+displaytext: Eventos
 layout:  null
 tab: true
-order: 1
-tags: Eventos
+order: 2
+tags: example_text
 ---
 
 ## Próximos Eventos
