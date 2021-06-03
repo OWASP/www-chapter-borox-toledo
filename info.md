@@ -5,6 +5,6 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-borox-toledo-meetup-group/)
+
 
 
